@@ -1,9 +1,6 @@
-<img src="./images/header.svg" alt="Jeg er Inna!"/>
+<img src="./images/header.svg" alt="Github Profile of Inna Aleksenitser"/>
 
-### Hi there 👋
-
-Jeg jobber for tiden med denne siden
-
+🛠 Jeg jobber for tiden med denne siden
 
 <img src="./images/footer.svg" alt="footer wave"/>
 <!--
@@ -19,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 👋
+  -->
