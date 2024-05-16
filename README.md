@@ -1,5 +1,11 @@
+<img src="./images/header.svg" alt="Jeg er Inna!"/>
+
 ### Hi there 👋
 
+Jeg jobber for tiden med denne siden
+
+
+<img src="./images/footer.svg" alt="footer wave"/>
 <!--
 **Inna-B10/Inna-B10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
