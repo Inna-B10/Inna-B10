@@ -13,8 +13,8 @@ Koding fengsler og absorberer meg og tiden går forbi på et blunk. For å tømm
  
 |       |      	|
 |:---:	|:----	|
-|  [![Enhetsregisteret](./images/projects/enhetsregisteret.jpg "Enhetsregisteret projekt")](https://github.com/Inna-B10/Enhetsregisteret-project)  |  **React + Vite** <br/>Applikasjonen i React som gjør en spørring mot Brønnøysundregistrene sitt API og presenterer en liste over bedriftene som ble funnet.  |
-|  [![The farm](./images/projects/farm.jpg "The farm - Natural Bliss")](https://github.com/Inna-B10/The-farm---Natural-Bliss)  |   **HTML + CSS** <br/>Open topic: design a visually appealing, user-friendly website for client.<br> Chosen topic - Farm.  |
+|  [![Enhetsregisteret](./images/projects/enhetsregisteret.jpg "Enhetsregisteret - API projekt")](https://github.com/Inna-B10/Enhetsregisteret-project)  |  **React + Vite** <br/>Applikasjonen i React som gjør en spørring mot Brønnøysundregistrene sitt API og presenterer en liste over bedriftene som ble funnet.  |
+|  [![The farm](./images/projects/farm.jpg "The farm \"Natural Bliss\"")](https://github.com/Inna-B10/The-farm---Natural-Bliss)  |   **HTML + CSS** <br/>Open topic: design a visually appealing, user-friendly website for client.<br> Chosen topic - Farm.  |
 |    [![Free games](./images/projects/games.jpg "Free games - API projekt")](https://github.com/Inna-B10/JS-API-PROJECT) 	|   **Javascript API - Group Project** <br/> A website that displays information retrieved from an API AND/OR USES the information retrieved to display something.  	|
 |   [![Soundboard](./images/projects/soundboard.jpg "Soundboard")](https://github.com/Inna-B10/Soundboard)  	|   **Vanilla Javascript** <br/> Creating a soundboard with eventlisteners that are activated when pressing keyboard keys and style properly so it actually looks like a soundboard!  	|
 |   [![TextilePod](./images/projects/textilePod.jpg "TextilePod - Group projekt")](https://github.com/Inna-B10/Textile-Pod)  	|   **HTML + CSS - Group Project** <br/> An engaging and visually appealing homepage that introduces Textile POD using HTML, CSS.<br>Mission of the business is to bring awareness in the city to recycle clothes.  	| 
