@@ -1,8 +1,7 @@
-<img src="./images/header.svg" alt="Github Profile of Inna Aleksenitser"></img>
-
+![Github Profile of Inna Aleksenitser](./images/header.svg)
 Mitt første møte med koding var for noen år siden, da jeg opprettet/tilpasset et nettgalleri ved hjelp av CSS, HTML, PHP og MySQL. Etter en kort periode innså jeg at jeg var mer interessert i funksjonaliteten enn i designet. Jeg studerte på egenhånd på fritiden og ble veldig fascinert av hva og hvordan det skjedde på den andre siden av skjermen. Det var da jeg innså at jeg ønsket å utvikle karrieren min i denne retningen.  
 
-For noen måneder siden var jeg så heldig å bli med Kodehode, et frontend fokusert kurs,  og hoppet inn i dette  kaninhullet for koding og webutvikling. Kurset ga meg dypere (og mer relevant) kunnskap innen **CSS** og **HTML**. Jeg ble kjent med magien av **Javascript** og **React**.  Begynte å utforske **C#**, **.Net** og **SQL**. I tillegg lærte jeg om grunnleggende design i **Figma**.
+For noen måneder siden var jeg så heldig å bli med Kodehode, et frontend fokusert kurs,  og hoppet inn i dette  kaninhullet for koding og webutvikling. Kurset ga meg dypere (og mer relevant) kunnskap innen **CSS** og **HTML**. Jeg ble kjent med magien av **Javascript** og **React**.  Begynte å utforske **C#**, **.Net** og **SQL**. I tillegg har jeg lært om grunnleggende design i **Figma**.
 
 Jeg er en nysgjerrig person og prøver alltid å forstå essensen. Mitt ønske er å fortsette å utvide horisonten min, finpusse kunnskapen og utvikle meg selv som en dyktig utvikler.
 Koding fengsler og absorberer meg og tiden går forbi på et blunk. For å tømme hodet litt og gi hjernen hvile, liker jeg å jobbe med hendene på fritiden – fra broderi med nål i hånden, til å lage små møbler med sag og hammer.  
@@ -18,9 +17,9 @@ Koding fengsler og absorberer meg og tiden går forbi på et blunk. For å tømm
 |   [![Todo list](./images/projects/todo.jpg "Vanilla Javascript")](https://inna-b10.github.io/Advanced-Todo-list/)  	|   **Vanilla Javascript** <br/> Todo List application using JavaScript, HTML and CSS. <br />A user has the ability to add, edit, filter, and remove items from both the list and local storage. 	| 
 
 
-<!--  
-
-<img src="./images/footer.svg" alt="footer wave"></img>
+ 
+<!-- 
+![footer wave](./images/footer.svg)
 
 
 <table style="border:0px;">
