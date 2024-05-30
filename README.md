@@ -8,7 +8,7 @@ Koding fengsler og absorberer meg og tiden går forbi på et blunk. For å tømm
 <br />
 
 <details>
-<summary>Noen av mine prosjekter</summary>
+<summary> <h4> Noen av mine prosjekter </h4> </summary>
 <br />
  
 |       |      	|
