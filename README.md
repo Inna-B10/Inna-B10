@@ -9,16 +9,20 @@ For noen måneder siden var jeg så heldig å bli med Kodehode, et frontend foku
 Jeg er en nysgjerrig person og prøver alltid å forstå essensen. Mitt ønske er å fortsette å utvide horisonten min, finpusse kunnskapen og utvikle meg selv som en dyktig utvikler.
 Koding fengsler og absorberer meg og tiden går forbi på et blunk. For å tømme hodet litt og gi hjernen hvile, liker jeg å jobbe med hendene på fritiden – fra broderi med nål i hånden, til å lage små møbler med sag og hammer.  
 
+<br /><br />
 |       |      	|
 |:---:	|:----	|
-|  [![Enhetsregisteret](./images/projects/enhetsregisteret.jpg "React+Vite")](https://github.com/Inna-B10/Enhetsregisteret-project)  |  **React + Vite Project** <br/>Applikasjonen i React som gjør en spørring mot Brønnøysundregistrene sitt API og presenterer en liste over bedriftene som ble funnet.  |
+|  [![Enhetsregisteret](./images/projects/enhetsregisteret.jpg "React+Vite")](https://github.com/Inna-B10/Enhetsregisteret-project)  |  **React + Vite** <br/>Applikasjonen i React som gjør en spørring mot Brønnøysundregistrene sitt API og presenterer en liste over bedriftene som ble funnet.  |
 |  [![The farm](./images/projects/farm.jpg "HTML+CSS")](https://github.com/Inna-B10/The-farm---Natural-Bliss)  |   **HTML + CSS** <br/>Open topic: to design a visually appealing, user-friendly website for client.<br> Chosen topic - Farm.  |
 |    [![Free games](./images/projects/games.jpg "JS-API")](https://github.com/Inna-B10/JS-API-PROJECT) 	|   **Javascript API - Group Project** <br/> A website that displays information retrieved from an API AND/OR USES the information retrieved to display something.  	|
-|   [![Soundboard](./images/projects/soundboard.jpg "Vanilla Javascript")](https://github.com/Inna-B10/Soundboard)  	|   **Vanilla Javascript** <br/> Creating a soundboard with eventlisteners that are activated when pressing keyboard keys and style properly so it actually looks like a soundboard!  	|
+|   [![Soundboard](./images/projects/soundboard.jpg "Vanilla Javascript")](https://github.com/Inna-B10/Soundboard)  	|   **Vanilla Javascript** <br/> Creating a soundboard with eventlisteners that are activated when pressing keyboard keys and style properly so it actually looks like a soundboard!  	|  
 
+
+<!--  
 
 <img src="./images/footer.svg" alt="footer wave"></img>
-<!--  
+
+
 <table style="border:0px;">
   <tr>
     <td>
