@@ -7,6 +7,10 @@ Jeg er en nysgjerrig person og prøver alltid å forstå essensen. Mitt ønske e
 Koding fengsler og absorberer meg og tiden går forbi på et blunk. For å tømme hodet litt og gi hjernen hvile, liker jeg å jobbe med hendene på fritiden – fra broderi med nål i hånden, til å lage små møbler med sag og hammer.  
 <br />
 
+<details>
+<summary>Noen av mine prosjekter :point_down:</summary>
+<br />
+ 
 |       |      	|
 |:---:	|:----	|
 |  [![Enhetsregisteret](./images/projects/enhetsregisteret.jpg "React+Vite")](https://github.com/Inna-B10/Enhetsregisteret-project)  |  **React + Vite** <br/>Applikasjonen i React som gjør en spørring mot Brønnøysundregistrene sitt API og presenterer en liste over bedriftene som ble funnet.  |
@@ -16,7 +20,7 @@ Koding fengsler og absorberer meg og tiden går forbi på et blunk. For å tømm
 |   [![TextilePod](./images/projects/textilePod.jpg "HTML+CSS")](https://github.com/Inna-B10/Textile-Pod)  	|   **HTML + CSS - Group Project** <br/> An engaging and visually appealing homepage that introduces Textile POD using HTML, CSS.<br>Mission of the business is to bring awareness in the city to recycle clothes.  	| 
 |   [![Todo list](./images/projects/todo.jpg "Vanilla Javascript")](https://inna-b10.github.io/Advanced-Todo-list/)  	|   **Vanilla Javascript** <br/> Todo List application using JavaScript, HTML and CSS. <br />A user has the ability to add, edit, filter, and remove items from both the list and local storage. 	| 
 
-
+</details>
  
 <!-- 
 ![footer wave](./images/footer.svg)
