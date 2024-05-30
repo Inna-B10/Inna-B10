@@ -21,9 +21,11 @@ Koding fengsler og absorberer meg og tiden går forbi på et blunk. For å tømm
 |   [![Todo list](./images/projects/todo.jpg "Todo list")](https://inna-b10.github.io/Advanced-Todo-list/)  	|   **Vanilla Javascript** <br/> Todo List application using JavaScript, HTML and CSS. <br />A user has the ability to add, edit, filter, and remove items from both the list and local storage. 	|
 
 </details>
- 
-<!-- 
+
 ![footer wave](./images/footer.svg)
+
+<!--
+
 
 <table style="border:0px;">
   <tr>
@@ -42,7 +44,7 @@ Koding fengsler og absorberer meg og tiden går forbi på et blunk. For å tømm
       **HTML + CSS** <br />Open topic: to design a visually appealing, user-friendly website for client.<br> Chosen theme - Farm.
     </td>
   </tr>
-  
+
 </table>
 
 <br /><br /><br />
