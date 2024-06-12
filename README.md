@@ -13,13 +13,13 @@ Koding fengsler og absorberer meg og tiden går forbi på et blunk. For å tømm
  
 |       |      	|
 |:---:	|:----	|
-|  [![Quiz](./images/projects/quiz.jpg "Quiz - C# prosjekt")](https://github.com/Inna-B10/QuizFormApp)  |  **C#** <br/>En enkel C#-app som kjører quiz og viser resultatet til slutt. Utformet med Windows.Forms.  |
-|  [![Enhetsregisteret](./images/projects/enhetsregisteret.jpg "Enhetsregisteret - API prosjekt")](https://github.com/Inna-B10/Enhetsregisteret-project)  |  **React + Vite** <br/>Applikasjonen i React som gjør en spørring mot Brønnøysundregistrene sitt API og presenterer en liste over bedriftene som ble funnet.  |
-|  [![The farm](./images/projects/farm.jpg "The farm \"Natural Bliss\"")](https://github.com/Inna-B10/The-farm---Natural-Bliss)  |   **HTML + CSS** <br/>Open topic: design a visually appealing, user-friendly website for client.<br> Chosen topic - Farm.  |
-|    [![Free games](./images/projects/games.jpg "Free games - API prosjekt")](https://github.com/Inna-B10/JS-API-PROJECT) 	|   **Javascript API - Group Project** <br/> A website that displays information retrieved from an API AND/OR USES the information retrieved to display something.  	|
-|   [![Soundboard](./images/projects/soundboard.jpg "Soundboard")](https://github.com/Inna-B10/Soundboard)  	|   **Vanilla Javascript** <br/> Creating a soundboard with eventlisteners that are activated when pressing keyboard keys and style properly so it actually looks like a soundboard!  	|
-|   [![TextilePod](./images/projects/textilePod.jpg "TextilePod - Group prosjekt")](https://github.com/Inna-B10/Textile-Pod)  	|   **HTML + CSS - Group Project** <br/> An engaging and visually appealing homepage that introduces Textile POD using HTML, CSS.<br>Mission of the business is to bring awareness in the city to recycle clothes.  	| 
-|   [![Todo list](./images/projects/todo.jpg "Todo list")](https://inna-b10.github.io/Advanced-Todo-list/)  	|   **Vanilla Javascript** <br/> Todo List application using JavaScript, HTML and CSS. <br />A user has the ability to add, edit, filter, and remove items from both the list and local storage. 	|
+|  [![Quiz](./images/projects/quiz.jpg "Quiz - C# prosjekt")](https://github.com/Inna-B10/QuizFormApp)  | **Quiz** _(C#)_ <br/>En enkel C#-app som kjører quiz og viser resultatet til slutt.<br>Utformet med Windows.Forms.<br>[GitHub](https://github.com/Inna-B10/QuizFormApp) |
+|  [![Enhetsregisteret](./images/projects/enhetsregisteret.jpg "Enhetsregisteret - API prosjekt")](https://github.com/Inna-B10/Enhetsregisteret-project)  |  **Enhetsregisteret** _(React + Vite)_ <br/>Applikasjonen i React som gjør en spørring mot Brønnøysundregistrene sitt API og presenterer en liste over bedriftene som ble funnet.<br>[GitHub](https://github.com/Inna-B10/Enhetsregisteret-project) \| [Netlify](https://enhetsregisteret-project.netlify.app/)  |
+|  [![The farm](./images/projects/farm.jpg "The farm \"Natural Bliss\"")](https://github.com/Inna-B10/The-farm---Natural-Bliss)  |   **Farm \"Natural Bliss\"** _(HTML + CSS)_ <br/>Open topic: design a visually appealing, user-friendly website for client.<br> Chosen topic - Farm.<br>[Github](https://github.com/Inna-B10/The-farm---Natural-Bliss) \| [Netlify](https://github.com/Inna-B10/The-farm---Natural-Bliss) |
+|    [![Free games](./images/projects/games.jpg "Free games - API prosjekt")](https://github.com/Inna-B10/JS-API-PROJECT) 	|   **Free games** _(Javascript API) Group Project_ <br/> A website that displays information retrieved from an API AND/OR USES the information retrieved to display something.<br>[GitHub](https://github.com/Inna-B10/JS-API-PROJECT) \| [Netlify](https://js-api-group-project.netlify.app) 	|
+|   [![Soundboard](./images/projects/soundboard.jpg "Soundboard")](https://github.com/Inna-B10/Soundboard)  	|   **Soundboard** _(Vanilla Javascript)_ <br/> Creating a soundboard with eventlisteners that are activated when pressing keyboard keys and style properly so it actually looks like a soundboard!<br>[GitHub](https://github.com/Inna-B10/Soundboard) \| [Netlify](https://soundboard-innab10.netlify.app)  	|
+|   [![TextilePod](./images/projects/textilePod.jpg "TextilePod - Group prosjekt")](https://github.com/Inna-B10/Textile-Pod) 	|   **TextilePod** _(HTML + CSS) Group Project_ <br/> An engaging and visually appealing homepage that introduces Textile POD using HTML, CSS. Mission of the business is to bring awareness in the city to recycle clothes.<br>[GitHub](ttps://github.com/Inna-B10/Textile-Pod) \| [Netlify](https://textile-pod.netlify.app/)  	| 
+|   [![Todo list](./images/projects/todo.jpg "Todo list")](https://github.com/Inna-B10/Advanced-Todo-list)  	|   **Todo list** _(Vanilla Javascript)_ <br/> Todo List application using JavaScript, HTML and CSS. A user has the ability to add, edit, filter, and remove items from both the list and local storage.<br>[GitHub](https://github.com/Inna-B10/Advanced-Todo-list) \| [Netlify](https://advanced-todo-list-my-innab10.netlify.app/) 	|
 
 </details>
 
@@ -27,28 +27,6 @@ Koding fengsler og absorberer meg og tiden går forbi på et blunk. For å tømm
 
 <!--
 
-
-<table style="border:0px;">
-  <tr>
-    <td>
-      <a href="https://github.com/Inna-B10/Enhetsregisteret-project" target="_blank"><img src="./images/projects/enhetsregisteret.jpg" title="React+Vite"></img></a>
-    </td>
-    <td>
-      <b>React + Vite</b> <br />Applikasjonen i React som gjør en spørring mot Brønnøysundregistrene sitt API og presenterer en liste over bedriftene som ble funnet.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Inna-B10/The-farm---Natural-Bliss" target="_blank"><img src="./images/projects/farm.jpg" title="HTML+CSS"></img></a>
-    </td>
-    <td>
-      **HTML + CSS** <br />Open topic: to design a visually appealing, user-friendly website for client.<br> Chosen theme - Farm.
-    </td>
-  </tr>
-
-</table>
-
-<br /><br /><br />
 🛠 Jeg jobber for tiden med denne siden
 
 **Inna-B10/Inna-B10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
